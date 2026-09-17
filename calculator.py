@@ -16,7 +16,7 @@ def calculator(a,b,operator):
 
 a=int(input("Enter First number:"))
 b=int(input("Enter second number:"))
-op=(input("Enter the operator(+,-,*,/):")
+operator=input("Enter the operator(+,-,*,/):")
 print("The result is ",calculator(a,b,operator))
 
 
