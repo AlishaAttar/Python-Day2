@@ -1,0 +1,8 @@
+def countDigit(n):
+    count=0
+    while(n%2!=0):
+        count+=1
+        n=n//10
+    return count
+n=int(input("Enter the number:"))
+print(countDigit(n))        
