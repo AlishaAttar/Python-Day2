@@ -1,1 +1,1 @@
-HelloThis is how to write in a file
+Hello/nThis is how to write in a file

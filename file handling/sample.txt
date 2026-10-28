@@ -1,1 +1,1 @@
-HelloThis is how to write in a file
+hello this is a sample text file
